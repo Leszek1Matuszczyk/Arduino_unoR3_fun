@@ -1,6 +1,6 @@
-#define RED 1      // Define pin number for the red light
-#define YELLOW 2   // Define pin number for the yellow light
-#define GREEN 3    // Define pin number for the green light
+#define RED 2      // Define pin number for the red light
+#define YELLOW 3   // Define pin number for the yellow light
+#define GREEN 4    // Define pin number for the green light
 
 void setup() {
   pinMode(RED, OUTPUT);     // Set the red light pin as an output
