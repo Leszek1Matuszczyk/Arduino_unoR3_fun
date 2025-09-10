@@ -1,8 +1,8 @@
-#define RED 5       // Assign pin 5 to the red light
-#define YELLOW 6    // Assign pin 6 to the yellow light
-#define GREEN 7     // Assign pin 7 to the green light
-#define BUTTON1 8   // Assign pin 8 to button 1
-#define BUTTON2 9   // Assign pin 9 to button 2
+#define RED 2       // Assign pin 5 to the red light
+#define YELLOW 3    // Assign pin 6 to the yellow light
+#define GREEN 4     // Assign pin 7 to the green light
+#define BUTTON1 5   // Assign pin 8 to button 1
+#define BUTTON2 6   // Assign pin 9 to button 2
 
 int Time = 0;       // Variable to store delay time for light changes
 
