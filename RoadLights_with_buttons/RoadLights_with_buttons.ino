@@ -4,7 +4,7 @@
 #define BUTTON1 5   // Assign pin 8 to button 1
 #define BUTTON2 6   // Assign pin 9 to button 2
 
-int Time = 0;       // Variable to store delay time for light changes
+int Time = 100;       // Variable to store delay time for light changes
 
 void setup() {
   pinMode(RED, OUTPUT);       // Configure red light pin as output
